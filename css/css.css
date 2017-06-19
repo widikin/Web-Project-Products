@@ -2,7 +2,9 @@
 =======================================*/
 .main-header {
     padding: 20px;
-    background:green;
+    background-color: lightcoral;
+    overflow: hidden;
+    widows: 100%;
 }
 .main-banner {
     height: 400px;
