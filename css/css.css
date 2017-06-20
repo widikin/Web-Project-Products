@@ -1,3 +1,5 @@
+
+
 /*HEADER SECTION
 =======================================*/
 .main-header {
@@ -14,18 +16,21 @@
 
 .main-nav {
     background-color: indianred;
-    padding: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     color: #fff;
+    margin-top: 15px;
+    text-align: center;
+    width: 100%;
 }
 .main-nav li{
     float: left;
     padding: 5px 20px;
     list-style: none;
+    text-align: center;
 }
 .main-nav li a{
     color: inherit;
-
-
 }
 /*UTILITIES
 =======================================*/
